@@ -19,18 +19,16 @@ Images & Assets from Spotify UI
 spotify-clone/
 │── index.html
 │── style.css
-│── images/
-│     ├── album1.jpg
-│     ├── album2.jpg
-│     ├── logo.png
-│     └── ...
+│── album1.jpg
+│── album2.jpg
+│── logo.png
+│── ...
 
 **## 📸 Project Preview**
 ### 👉 Homepage (Top View)
-![Homepage Top](./images/homeFront.png)
+![Homepage Top](./homeFront.png)
 ### 👉 Homepage (Bottom Scrolled View)
-![Homepage Bottom](./images/homeBottom.png)
-
+![Homepage Bottom](./homeBottom.png)
 
 
 **📖 What I Learned**
